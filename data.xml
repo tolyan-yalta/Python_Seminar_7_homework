@@ -1,0 +1,44 @@
+<Book>
+	<Account id="4">
+		<Famaly>Иванов</Famaly>
+		<Name>Иван</Name>
+		<Last_name>Иванович</Last_name>
+		<Telephon>8-800-855-55-55</Telephon>
+		<E_mail>ivanov@mail.ru</E_mail>
+	</Account>
+	<Account id="5">
+		<Famaly>Пертров</Famaly>
+		<Name>Петр</Name>
+		<Last_name>Петрович</Last_name>
+		<Telephon>8-800-833-33-33</Telephon>
+		<E_mail>petrov@gmail.ru</E_mail>
+	</Account>
+	<Account id="7">
+		<Famaly>Пушкин</Famaly>
+		<Name>Александр</Name>
+		<Last_name>Сергеевич</Last_name>
+		<Telephon>8-800-844-44-44</Telephon>
+		<E_mail>pushkin@yamdex.ru</E_mail>
+	</Account>
+	<Account id="1">
+		<Famaly>Roosevelt</Famaly>
+		<Name>Franklin</Name>
+		<Last_name>Delano</Last_name>
+		<Telephon>8-800-855-55-55</Telephon>
+		<E_mail>roosevelt@gmail.com</E_mail>
+	</Account>
+	<Account>
+		<Famaly>Шекспир</Famaly>
+		<Name>Уильям</Name>
+		<Last_name />
+		<Telephon>8-800-753-86-42</Telephon>
+		<E_mail>shekspir@gmail.com</E_mail>
+	</Account>
+	<Account>
+		<Famaly>Джером</Famaly>
+		<Name>Джером</Name>
+		<Last_name>Клабка</Last_name>
+		<Telephon>8-800-963-14-74</Telephon>
+		<E_mail>@</E_mail>
+	</Account>
+</Book>
